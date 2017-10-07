@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\anim\\anim_guide_btn_start.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\anim\\anim_guide_btn_start.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\anim\\anim_layout_listview.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\anim\\anim_layout_listview.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\anim\\anim_listview.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\anim\\anim_listview.xml"
+    }
+]

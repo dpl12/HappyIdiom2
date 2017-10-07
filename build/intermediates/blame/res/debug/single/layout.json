@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play_guess.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\activity_play_guess.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collect.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\activity_collect.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animal.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\activity_animal.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\activity_study.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\guide_item.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\guide_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\category_item.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\category_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_info.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\dialog_info.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\activity_set.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\collect_item.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\collect_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\animal_item.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\animal_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_guess.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\layout\\activity_game_guess.xml"
+    }
+]

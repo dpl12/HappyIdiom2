@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable\\btnnext.png",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable\\btnnext.png"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable\\btnstart.png",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable\\btnstart.png"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_start.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable\\guide_start.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable\\music.png",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable\\btnsubmit.png",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable\\btnsubmit.png"
+    }
+]

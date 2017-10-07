@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_shape.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable-mdpi\\btn_shape.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_shape_after.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable-mdpi\\btn_shape_after.xml"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btnselect.xml",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable-mdpi\\btnselect.xml"
+    }
+]

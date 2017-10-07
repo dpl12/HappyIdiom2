@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\start.png",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable-mdpi\\start.png"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon3.png",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable-mdpi\\icon3.png"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon1.png",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable-mdpi\\icon1.png"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon2.png",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable-mdpi\\icon2.png"
+    },
+    {
+        "merged": "E:\\Android\\HappyIdiom2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\Android\\HappyIdiom2\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

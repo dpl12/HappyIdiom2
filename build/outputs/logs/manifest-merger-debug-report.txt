@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:3:5-46
+	android:versionName
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android\HappyIdiom2\AndroidManifest.xml
+		INJECTED from E:\Android\HappyIdiom2\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Android\HappyIdiom2\AndroidManifest.xml
+		INJECTED from E:\Android\HappyIdiom2\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:8:9-35
+application
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:11:5-78:19
+	android:screenOrientation
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:15:9-45
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:13:9-38
+	android:theme
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:16:9-68
+uses-library#android.test.runner
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:17:9-60
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:17:23-57
+activity#cn.deu.bztc.happyidiom.activity.MainActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:18:9-21:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:19:13-72
+activity#cn.deu.bztc.happyidiom.activity.SplashActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:23:13-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:28:27-74
+activity#cn.deu.bztc.happyidiom.activity.GuideActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:31:9-34:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:32:13-73
+activity#cn.deu.bztc.happyidiom.activity.StudyAnimalActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:35:9-38:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:36:13-79
+activity#cn.deu.bztc.happyidiom.activity.GameActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:40:13-72
+activity#cn.deu.bztc.happyidiom.activity.GameGuessActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:44:13-77
+activity#cn.deu.bztc.happyidiom.activity.CollectActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:48:13-75
+activity#cn.deu.bztc.happyidiom.activity.PlayGuessActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:53:13-77
+activity#cn.deu.bztc.happyidiom.util.DialogUtil
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:57:13-66
+activity#cn.deu.bztc.happyidiom.activity.StudyActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:61:13-73
+activity#cn.deu.bztc.happyidiom.activity.SearchActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:66:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:65:13-74
+activity#cn.deu.bztc.happyidiom.activity.SetActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:68:9-71:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:70:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:69:13-71
+activity#com.tangsci.android.example.ttsdemo.TtsDemoActivity
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:73:9-76:20
+	android:label
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:75:13-45
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:74:13-79
+service#cn.deu.bztc.happyidiom.service.AndioService
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:77:9-87
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:77:18-76
+instrumentation
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:80:5-83:23
+	android:targetPackage
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:82:9-64
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:81:9-62
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:84:5-83
+	android:name
+		ADDED from E:\Android\HappyIdiom2\AndroidManifest.xml:84:22-64

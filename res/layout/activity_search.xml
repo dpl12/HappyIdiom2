@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CollectActivity">
+    <!-- 建立一个EditText -->
+    <LinearLayout
+        android:id="@+id/llayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/myEditText1"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="2"
+            android:textSize="18sp"
+            android:text="助人为乐"
+            android:layout_x="5px"
+            android:layout_y="32px"
+            />
+        <!-- 建立一個Button -->
+        <Button
+            android:id="@+id/myButton01"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:text="查询"
+            android:layout_x="205px"
+            android:layout_y="35px"
+            />
+        <Button
+            android:id="@+id/myButton02"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:text="清空"
+            android:layout_y="35px"
+            android:layout_x="270px"
+            />
+    </LinearLayout>
+    <!-- 建立一个WebView -->
+    <WebView
+        android:id="@+id/myWebView1"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_x="7px"
+        android:layout_y="90px"
+        android:focusable="false"
+        android:layout_below="@+id/llayout"
+        />
+</RelativeLayout>
+

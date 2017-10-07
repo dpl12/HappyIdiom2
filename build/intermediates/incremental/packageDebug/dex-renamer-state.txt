@@ -1,0 +1,7 @@
+#Sat Jul 15 08:33:56 CST 2017
+base.0=E\:\\Android\\HappyIdiom2\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8405d07d2d6e2b9c8a7e11d122e9cdd1450f721e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Android\\HappyIdiom2\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cbe274737725409fbe72b620de104e895198ac3b\\classes.dex
+base.1=E\:\\Android\\HappyIdiom2\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cbe274737725409fbe72b620de104e895198ac3b
+file.0=E\:\\Android\\HappyIdiom2\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8405d07d2d6e2b9c8a7e11d122e9cdd1450f721e\\classes.dex

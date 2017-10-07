@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\HappyIdiom2\libs\GifView.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="5a518235931001b94e87540c99bd13258f614622">
+        <dex dex="E:\Android\HappyIdiom2\build\intermediates\transforms\dex\debug\folders\1000\2\GifView_d92506bd5863ea611398cc55e91dca0b072c1f48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\HappyIdiom2\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="E:\Android\HappyIdiom2\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_69b143e982c098ffa003f26734e9c2604ab893c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\HappyIdiom2\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="9394dd713ff6398dc353fbe6da6a253fc9d6c36e">
+        <dex dex="E:\Android\HappyIdiom2\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cbe274737725409fbe72b620de104e895198ac3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\HappyIdiom2\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="67847d6d830fa7058a89865d0a8a8d7a962ee734">
+        <dex dex="E:\Android\HappyIdiom2\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8405d07d2d6e2b9c8a7e11d122e9cdd1450f721e\classes.dex" />
+    </item>
+
+</items>
